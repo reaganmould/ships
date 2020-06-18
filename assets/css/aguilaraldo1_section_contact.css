@@ -1,0 +1,28 @@
+.icon-feature {
+  text-align:center;
+}
+
+.icon-feature .glyphicon {
+  font-size:60px;
+}
+
+section .features {
+  background-color:rgb(64, 187, 224);
+  padding:0px 0;
+  color:#fff;
+}
+
+.features h2 {
+  color:#fff;
+}
+
+.features .icon-features {
+  margin-top:15px;
+}
+.features {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(64, 187, 224);
+}
+
